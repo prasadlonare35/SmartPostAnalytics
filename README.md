@@ -12,6 +12,11 @@ A full-stack analytics platform that helps you **analyze and optimize your socia
 ✅ Performance comparison across post types (carousel, reel, static)  
 
 ---
+### 📸 Screenshots
+
+| ![](screenshots/Img01.png) | ![](screenshots/Img02.png) | ![](screenshots/Img03.png)
+
+---
 
 ## 🧰 Tech Stack
 - **Backend:** FastAPI (Python)
@@ -57,17 +62,17 @@ Create a .env file with:
       npm start
 
 ## 📦 Project Structure
-SocialMediaAnalysis/
-├── backend/
-│ ├── main.py # FastAPI entry point
-│ ├── datastax_service.py # DB integration
-│ ├── db_config.py # DB config
-│ ├── requirements.txt
-│ └── .env.example
-├── frontend/
-│ ├── public/ # index.html, favicon
-│ └── src/ # React components
-└── README.md
+      SocialMediaAnalysis/
+      ├── backend/
+      │ ├── main.py # FastAPI entry point
+      │ ├── datastax_service.py # DB integration
+      │ ├── db_config.py # DB config
+      │ ├── requirements.txt
+      │ └── .env.example
+      ├── frontend/
+      │ ├── public/ # index.html, favicon
+      │ └── src/ # React components
+      └── README.md
 
 ---
 

@@ -12,11 +12,6 @@ A full-stack analytics platform that helps you **analyze and optimize your socia
 ✅ Performance comparison across post types (carousel, reel, static)  
 
 ---
-### 📸 Screenshots
-
-| ![](screenshots/Img01.png) | ![](screenshots/Img02.png) | ![](screenshots/Img03.png)
-|------------------------|----------------------------|--------------------------|
----
 
 ## 🧰 Tech Stack
 - **Backend:** FastAPI (Python)

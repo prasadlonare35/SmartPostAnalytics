@@ -1,6 +1,6 @@
 # 📊 Social Media Analytics Platform
 
-A full-stack analytics platform that helps you **analyze and optimize your social media content performance** using **FastAPI**, **Google Gemini AI**, and **DataStax Astra DB**.
+A full-stack analytics platform that helps you **analyze and optimize your social media content performance** using **FastAPI**, **Google Gemini AI**, and **MongoDB**.
 
 ---
 
@@ -16,7 +16,7 @@ A full-stack analytics platform that helps you **analyze and optimize your socia
 ## 🧰 Tech Stack
 - **Backend:** FastAPI (Python)
 - **AI:** Google Gemini API
-- **Database:** DataStax Astra DB (scalable NoSQL)
+- **Database:** MongoDB (scalable NoSQL)
 - **Frontend:** React.js
 - Async operations & clean architecture
 
